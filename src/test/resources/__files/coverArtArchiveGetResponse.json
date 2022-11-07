@@ -1,0 +1,43 @@
+{
+  "images": [
+    {
+      "approved": true,
+      "back": false,
+      "comment": "",
+      "edit": 43131349,
+      "front": true,
+      "id": 15774660347,
+      "image": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/15774660347.png",
+      "thumbnails": {
+        "1200": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/15774660347-1200.jpg",
+        "250": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/15774660347-250.jpg",
+        "500": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/15774660347-500.jpg",
+        "large": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/15774660347-500.jpg",
+        "small": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/15774660347-250.jpg"
+      },
+      "types": [
+        "Front"
+      ]
+    },
+    {
+      "approved": true,
+      "back": false,
+      "comment": "",
+      "edit": 32917680,
+      "front": false,
+      "id": 10324860594,
+      "image": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/10324860594.jpg",
+      "thumbnails": {
+        "1200": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/10324860594-1200.jpg",
+        "250": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/10324860594-250.jpg",
+        "500": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/10324860594-500.jpg",
+        "large": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/10324860594-500.jpg",
+        "small": "http://coverartarchive.org/release/08130990-ae9f-4cbf-86d3-54409a55f530/10324860594-250.jpg"
+      },
+      "types": [
+        "Front"
+      ]
+    }
+  ],
+  "release": "https://musicbrainz.org/release/08130990-ae9f-4cbf-86d3-54409a55f530"
+}

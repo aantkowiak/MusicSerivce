@@ -1,0 +1,6 @@
+datasource:
+  service:
+    musicBrainz:
+      baseUrl: http://localhost:2345/.org/ws/2/artist/
+    coverArtArchive:
+      baseUrl: http://localhost:2345/release-group/

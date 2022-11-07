@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+
+datasource:
+  service:
+    musicBrainz:
+      baseUrl: http://musicbrainz.org/ws/2/artist/
+    coverArtArchive:
+      baseUrl: https://coverartarchive.org/release-group/

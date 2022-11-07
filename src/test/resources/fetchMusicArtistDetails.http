@@ -1,0 +1,23 @@
+### GET fetchMusicArtistDetails (artist: Snoop Dogg)
+GET http://localhost:8081/api/v1/musify/music-artist/details/f90e8b26-9e52-4669-a5c9-e28529c47894
+Accept: application/json
+
+
+### GET fetchMusicArtistDetails (artist: Michael Jackson)
+GET http://localhost:8081/api/v1/musify/music-artist/details/f27ec8db-af05-4f36-916e-3d57f91ecf5e
+Accept: application/json
+
+
+### GET fetchMusicArtistDetails (artist: Hans Florian Zimmer)
+GET http://localhost:8081/api/v1/musify/music-artist/details/e6de1f3b-6484-491c-88dd-6d619f142abc
+Accept: application/json
+
+
+### GET fetchMusicArtistDetails (artist: Rammstein)
+GET http://localhost:8081/api/v1/musify/music-artist/details/b2d122f9-eadb-4930-a196-8f221eeb0c66
+Accept: application/json
+
+
+### GET fetchMusicArtistDetails (artist: AC/DC)
+GET http://localhost:8081/api/v1/musify/music-artist/details/66c662b6-6e2f-4930-8610-912e24c63ed1
+Accept: application/json

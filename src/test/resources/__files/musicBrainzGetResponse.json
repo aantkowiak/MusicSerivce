@@ -1,0 +1,1103 @@
+{
+  "relations": [
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "6d31d1e0-9aab-4829-a2ee-0c937bc87feb",
+        "resource": "https://www.allmusic.com/artist/mn0000029086"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "allmusic",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/f90e8b26-9e52-4669-a5c9-e28529c47894",
+        "id": "4a4cbf56-e419-4ce8-a691-55053ee0ce2b"
+      },
+      "target-type": "url",
+      "ended": true,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type": "BBC Music page",
+      "end": "2020-11-19",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "71f152f2-8cca-482a-bc25-8045461f7e1a",
+        "resource": "https://www.discogs.com/artist/132084"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "discogs",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+    },
+    {
+      "url": {
+        "resource": "https://www.discogs.com/artist/4400358",
+        "id": "8a7de911-cc24-43be-b40b-c4d72d099fcb"
+      },
+      "direction": "forward",
+      "source-credit": "Snoop",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attributes": [],
+      "end": null,
+      "type": "discogs",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "type": "free streaming",
+      "attributes": [],
+      "target-credit": "",
+      "url": {
+        "resource": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG",
+        "id": "8754aa22-57ef-46e3-9f33-ce9925c669d9"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "590cd568-58ca-4a31-bee2-52898b7c689b",
+        "resource": "https://www.deezer.com/artist/3"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:Snoop_Dogg_2012.jpg",
+        "id": "e19286db-1f20-422a-a572-ebd7e85b742d"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "type": "image",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm0004879/",
+        "id": "e93fe5ab-9783-47bc-a8d6-a2c235debd59"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "type": "IMDb",
+      "end": null,
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.last.fm/music/Snoop+Dogg",
+        "id": "076ca1e1-fddf-4b99-bb64-1352d07db17f"
+      },
+      "target-credit": "",
+      "end": null,
+      "type": "last.fm",
+      "attributes": [],
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "bf690e57-760e-4fb6-8570-bbd1d6effeac",
+        "resource": "http://muzikum.eu/en/122-5459/snoop-dogg/lyrics.html"
+      },
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "url": {
+        "id": "6230f58f-e6ee-46d0-a877-3798ab13711d",
+        "resource": "https://genius.com/artists/Snoop-dogg"
+      },
+      "target-credit": "",
+      "end": null,
+      "type": "lyrics",
+      "attributes": [],
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "type": "myspace",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "bf09ffbc-b764-4dba-9b29-9c8c646018a3",
+        "resource": "https://myspace.com/snoopdogg"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "url": {
+        "resource": "http://snoopdogg.com/",
+        "id": "fa4a8fc6-3735-40b2-b756-d93bc7d4c56d"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attributes": [],
+      "end": null,
+      "type": "official homepage",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "url": {
+        "id": "3e5b3d67-8065-4b5f-a494-2ca236e13131",
+        "resource": "http://d-nb.info/gnd/122163931"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/nr96045766",
+        "id": "61be0336-69e9-46b3-b946-fcf5e05d1a6c"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": []
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "other databases",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "url": {
+        "id": "834ba9c0-2330-4948-9e85-763afdb22137",
+        "resource": "http://musicmoz.org/Bands_and_Artists/S/Snoop_Dogg/"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "21df8509-44da-4963-a442-fa4e7fe94551",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13963226b"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "cda0d16d-923e-4836-b440-a8c633e64a91",
+        "resource": "https://imvdb.com/n/snoop-dogg"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "50b0bda9-4067-4341-9787-c210fdc277bf",
+        "resource": "https://nla.gov.au/nla.party-1448181"
+      },
+      "direction": "forward",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "64717cda-448f-4a2e-81b8-41e90381c169",
+        "resource": "https://rateyourmusic.com/artist/snoop_dogg"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/snoop-dogg/",
+        "id": "a734b2fe-d429-44d7-833a-c486fb21ed20"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.whosampled.com/Snoop-Dogg/",
+        "id": "f6e51ea0-ac02-47ef-ab80-eedb2ff0fcc1"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "ef74f01b-362c-4515-8ac9-73492e7daeec",
+        "resource": "https://www.worldcat.org/identities/lccn-nr96045766"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "type": "purchase for download",
+      "end": "2020-10-12",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "68dd2934-3240-4a11-a615-ba7829e464bb",
+        "resource": "https://play.google.com/store/music/artist?id=Afq6okfwswnkywyl7q7rnmuoj2q"
+      },
+      "direction": "forward"
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type": "purchase for download",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id21769",
+        "id": "6dc6ed5e-5198-43a1-80cf-a3cf0a66e240"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "end": null,
+      "type": "purchase for download",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "6ed62ade-de00-4478-91e3-550f08836eb5",
+        "resource": "https://us.7digital.com/artist/snoop-dogg"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.amazon.com/-/e/B000APXC5U",
+        "id": "7db37e76-edb0-481a-bf04-ee44f1bad8df"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type": "purchase for download"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "url": {
+        "id": "5f1dd17c-0af3-45d8-90cb-2af102944e59",
+        "resource": "https://www.beatport.com/artist/snoop-dogg/42641"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "purchase for download",
+      "end": null
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "ee1a22ca-88d7-4595-ae1e-62ba2c2afb02",
+        "resource": "https://www.junodownload.com/artists/Snoop+Dogg/"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "type": "purchase for download",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "82a119ec-e99c-48c4-b596-629a564bc1ed",
+        "resource": "https://www.onkyomusic.com/US/artist/snoop-dogg"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "url": {
+        "resource": "http://www.purevolume.com/snoopdogg",
+        "id": "abee4ba9-7090-4443-bbba-87cd307a5343"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "ended": true,
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581",
+      "type": "purevolume",
+      "end": "2018-06-30",
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attributes": [],
+      "type": "secondhandsongs",
+      "end": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/10661",
+        "id": "8a14bf87-1345-46f7-936b-06799f9937bb"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "type": "social network",
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://twitter.com/snoopdogg",
+        "id": "cb65a4c7-37db-4fe9-963d-e397fc5c1bf6"
+      },
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "09c3d062-55c2-4bb7-8ce7-e920ea117c6f",
+        "resource": "https://www.facebook.com/snoopdogg"
+      },
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://www.instagram.com/snoopdogg/",
+        "id": "ec978a6c-1175-4722-91b0-5b9f806f71fe"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "end": null,
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": [],
+      "type": "social network",
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "https://plus.google.com/+SnoopDogg",
+        "id": "0fd8ed41-c273-4b6c-82a9-82d03bd3d2e3"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "032b8b67-4cd4-4188-b876-5688a306d654",
+        "resource": "https://www.songkick.com/artists/292668"
+      },
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type": "songkick",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "type": "soundcloud",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://soundcloud.com/snoopdogg",
+        "id": "494ef911-ee1f-4ddb-9215-4e4a165171d8"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "type": "streaming",
+      "end": null,
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://listen.tidal.com/artist/8914",
+        "id": "342bd74b-435d-475c-86ff-6d216d22a84d"
+      },
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "2a34ef43-cded-4e48-a802-25597c351f33",
+        "resource": "https://music.apple.com/us/artist/21769"
+      },
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "VIAF",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "url": {
+        "resource": "http://viaf.org/viaf/61738579",
+        "id": "a4a16a32-61b2-47e6-9016-7777693b3c46"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "type": "wikidata",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "url": {
+        "id": "7d5e7343-d766-412e-bfce-056cceb1cfc8",
+        "resource": "https://www.wikidata.org/wiki/Q6096"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "type": "youtube",
+      "end": null,
+      "attributes": [],
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.youtube.com/user/SnoopDoggVEVO",
+        "id": "2fc2660d-18f2-4066-add1-e62229911c8d"
+      }
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.youtube.com/user/westfesttv",
+        "id": "e36778ad-e619-4d7d-9b0f-e91edad181af"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type": "youtube",
+      "end": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-ids": {},
+      "begin": null
+    }
+  ],
+  "name": "The Snoop Dogg",
+  "begin_area": {
+    "sort-name": "Long Beach",
+    "type-id": null,
+    "disambiguation": "",
+    "id": "e183ffae-1d35-4c78-b552-957535e40af1",
+    "name": "Long Beach",
+    "type": null
+  },
+  "end_area": null,
+  "sort-name": "Snoop Dogg",
+  "country": "US",
+  "ipis": [],
+  "disambiguation": "US rapper",
+  "gender": "Male",
+  "release-groups": [
+    {
+      "first-release-date": "1993-11-23",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Doggystyle",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "id": "649762c9-8785-3d9c-803d-2f0496f168e5"
+    },
+    {
+      "first-release-date": "1996-09-12",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Tha Doggfather",
+      "secondary-type-ids": [],
+      "id": "626249ea-8291-3901-a294-881309b84dee",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "id": "3b7bf5e6-a6b0-3f7c-a32a-5b3b998cda27",
+      "secondary-type-ids": [],
+      "title": "Da Game Is to Be Sold, Not to Be Told",
+      "disambiguation": "",
+      "secondary-types": [],
+      "first-release-date": "1998-08-04",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "No Limit Top Dogg",
+      "primary-type": "Album",
+      "id": "c252d9d5-1ead-334d-b391-3f6828c6bb6b",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1999-05-11"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2000-02-01",
+      "secondary-types": [],
+      "disambiguation": "",
+      "id": "a4cb5b59-6d54-3ab0-9e77-9724b325e358",
+      "primary-type": "Album",
+      "title": "Snoop Dogg presents Tha Eastsidaz",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2000-11-21",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "92fee5a3-70aa-3dea-805c-f014e8f8b9f2",
+      "secondary-type-ids": [],
+      "title": "Pleezbaleevit!"
+    },
+    {
+      "first-release-date": "2000-12-19",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Tha Last Meal",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "id": "7b45c670-84fd-3552-b833-85047fc481c3"
+    },
+    {
+      "primary-type": "Album",
+      "id": "cee18bcc-3e15-3d68-a8d5-10d7d8fb5cd6",
+      "secondary-type-ids": [],
+      "title": "Duces ’n Trayz: The Old Fashioned Way",
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2001-06-01",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2002-11-25",
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Paid tha Cost to Be da Bo$$",
+      "secondary-type-ids": [],
+      "id": "9ceca561-db09-3502-8490-40c95fce96f7",
+      "primary-type": "Album"
+    },
+    {
+      "first-release-date": "2004-11-16",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "R&G (Rhythm & Gangsta): The Masterpiece",
+      "secondary-type-ids": [],
+      "id": "f1eeb194-a5f7-31c9-adb5-d3b067cd22aa",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "Tha Blue Carpet Treatment",
+      "primary-type": "Album",
+      "id": "7006b8c7-bebf-3ec1-bfb5-14ed778babfc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2006-11-18"
+    },
+    {
+      "primary-type": "Album",
+      "id": "4d0a656c-ddd3-3d83-b49e-d6190c4177db",
+      "title": "Ego Trippin’",
+      "secondary-type-ids": [],
+      "first-release-date": "2008-03-11",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2008-09-02",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "title": "Dubb Union",
+      "primary-type": "Album",
+      "id": "b87f29f6-0649-45d3-9b92-9347b0031292"
+    },
+    {
+      "first-release-date": "2009-12-04",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "id": "5f69841f-6020-43e3-8d9b-c600597034de",
+      "title": "Malice n Wonderland",
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type": "Album",
+      "id": "055333bb-c6ed-4077-b160-64e81b744582",
+      "title": "Doggumentary",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2011-03-29",
+      "secondary-types": [],
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2015-05-08",
+      "secondary-type-ids": [],
+      "title": "BUSH",
+      "id": "1eb73eba-e5a9-4142-8a87-3feca60f34d6",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "id": "104432e8-78f3-4160-81dc-12ec93ac8271",
+      "secondary-type-ids": [],
+      "title": "Cuzznz",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2015-10"
+    },
+    {
+      "primary-type": "Album",
+      "id": "98c1e67d-d54f-47b4-b85e-c0dd9c6dd3f3",
+      "secondary-type-ids": [],
+      "title": "Coolaid",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2016-07-01"
+    },
+    {
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2017-05-19",
+      "primary-type": "Album",
+      "id": "657fbcc6-63c1-4cbb-83fc-7bd2cd80a282",
+      "secondary-type-ids": [],
+      "title": "Neva Left"
+    },
+    {
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2018-03-16",
+      "primary-type": "Album",
+      "id": "18ad0c5a-d180-4aed-9981-0232eda37e6f",
+      "secondary-type-ids": [],
+      "title": "Snoop Dogg Presents Bible of Love"
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "2019-08-15",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "title": "I Wanna Thank Me",
+      "primary-type": "Album",
+      "id": "45456d45-6f46-4c09-9474-64d538be26ff"
+    },
+    {
+      "primary-type": "Album",
+      "id": "78af0891-34e9-4a44-bac2-08a25e0d2175",
+      "title": "From tha Streets 2 tha Suites",
+      "secondary-type-ids": [],
+      "first-release-date": "2021-04-20",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "BODR",
+      "primary-type": "Album",
+      "id": "c36a48ce-b401-4b43-8689-0d16fa3c72e8",
+      "disambiguation": "",
+      "secondary-types": [],
+      "first-release-date": "2022-02-11",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "id": "955ea501-761e-3c0c-8211-f86b95decc55",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Smokefest",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "1998-05-19",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2000-10-31",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "id": "b4576334-73f9-357b-bfad-46c7cb27f2c5",
+      "title": "Dead Man Walkin",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    }
+  ],
+  "type": "Person",
+  "id": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+  "end-area": null,
+  "life-span": {
+    "ended": false,
+    "begin": "1971-10-20",
+    "end": null
+  },
+  "begin-area": {
+    "sort-name": "Long Beach",
+    "type-id": null,
+    "disambiguation": "",
+    "id": "e183ffae-1d35-4c78-b552-957535e40af1",
+    "name": "Long Beach",
+    "type": null
+  },
+  "area": {
+    "type": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "name": "United States",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "type-id": null,
+    "sort-name": "United States"
+  },
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "isnis": [
+    "0000000120269646"
+  ]
+}
