@@ -1,5 +1,6 @@
 package com.plugsurfing.musicservice.controller;
 
+import com.plugsurfing.musicservice.service.musicartist.MusicArtistDto;
 import com.plugsurfing.musicservice.service.musicartist.MusicArtistService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -18,10 +19,9 @@ public class MusicArtistController {
     private final MusicArtistService musicArtistService;
 
     @GetMapping(value = "/musify/music-artist/details/{mbid}")
-    public Mono<ResponseEntity> fetchMusicArtistDetails(@PathVariable String mbid) {
+    public Mono<ResponseEntity<MusicArtistDto>> fetchMusicArtistDetails(@PathVariable String mbid) {
         return musicArtistService
                 .fetchMusicArtist(mbid)
-                .map(musicArtistDto -> ResponseEntity.status(HttpStatus.OK).body(musicArtistDto))
-                .cast(ResponseEntity.class);
+                .map(musicArtistDto -> ResponseEntity.status(HttpStatus.OK).body(musicArtistDto));
     }
 }
